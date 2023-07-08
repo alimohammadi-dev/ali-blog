@@ -3,7 +3,7 @@
 
 set -o errexit
 # Update pip
-pip install --upgrade pip
+pip install --upgrade pip setuptools wheel
 
 
 # Install requirements
