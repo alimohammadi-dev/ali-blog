@@ -77,7 +77,7 @@
 .toast-container {
   position: absolute;
   z-index:1;
-  top: 50rem;
+  top: 10rem;
   right: 70rem;
   display: grid;
   justify-items: center;
